@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@onepercent_tech/test",
+  "name": "@onepercent_tech/testnet",
   "version": "0.1.80",
   "repository": "https://github.com/OnepercentTech/loro-testnet-example-pwa",
   "scripts": {
